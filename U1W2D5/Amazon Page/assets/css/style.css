@@ -1,0 +1,156 @@
+/* Your styles here */
+body {
+    max-width: 1950px;
+    margin-inline: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    border: solid 0.1px white;
+}
+header,main,footer {
+     text-align: center;
+}
+header {
+    padding-bottom: 10px;
+    margin: 20px;
+    margin-right: 20px;
+
+}
+
+.nero {
+    color:#eaeded;
+    background-color: #222f3e;
+    text-align : start;
+    width: 100%;
+}
+.nero img { 
+    padding-top: 5px;
+    padding-bottom: 15px;
+    max-width: 10%;
+
+
+}
+a {
+    
+    text-align: start;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin-right: 30px;
+
+}
+.nero2 {
+    color:#eaeded;
+    background-color: #2a3e55;
+    height: 30px;
+    padding-top:15px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+}
+.orange {
+    color:white;
+    background-color: rgba(252, 125, 6, 0.836);
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.principale {
+    color:white;
+    text-align: center;
+    background-image: url(../images/bg-image.png);
+    background-size: cover;
+    padding-bottom: 25px;
+    padding-top:25px;
+   
+}
+.principale h1,h4 {
+    text-align: center;
+}
+.principale h1 {
+    padding-bottom: 15px;
+    font-size: 25px;
+    font-weight: 700;
+}
+main h4{
+    font-size: 20px;
+    text-align:left;
+    font-weight: 600;
+    padding-left: 15px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
+main a{
+    font-size: 20px;
+    text-align:left;
+    font-weight: 600;
+    padding-left: 15px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+    color: rgb(41, 84, 148)ue;
+    text-decoration: none;
+
+}
+main {
+    border:solid 0,5px;
+    
+}
+.sfondobianco {
+    background-color: white;
+    margin-bottom: 30px;
+}
+.sfondobianco a {
+    color:#2a3e55;
+}
+.fine {
+    color:#eaeded;
+    background-color: #222f3e;
+    text-align : center;
+    width: 100%;
+    padding-bottom:30px;
+    padding-top:50px;
+
+}
+footer {
+    background-color: #2a3e55;
+    padding-top: 15px;
+    padding-bottom:15px;
+    border: none;
+}
+footer a {
+    text-decoration:underline white;
+}
+.centopercento img {
+   width: 100%;
+   padding-bottom: 3px;
+   padding-top:1px;
+}
+.centopercento p {
+    color:black;
+    padding-bottom: 30px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.centopercento a {
+    color: rgb(41, 84, 148);
+}
+.immaginidifianco {
+    display: inline-flex;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom:15px;
+    
+}
+.immaginidifianco img {
+    border-radius: 5%;
+    max-width: 23%;
+    margin-right: 1.2rem;
+    margin-left:1rem;
+    object-fit:cover;
+    box-shadow: 4px 5px 20px black; 
+}
+.ciaociao {
+    padding-left: 20px;
+    padding-right: 20px;
+}
